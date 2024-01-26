@@ -1,0 +1,55 @@
+.mainOuterContainer {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.countryContainer {
+  width: 70vw;
+  background-color: #161624;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.countries {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #ffffff;
+}
+
+.countriesContainer {
+  height: 50vh;
+  border: 1px solid #94a3b8;
+  border-radius: 8px;
+  overflow-y: auto;
+}
+
+.unOrderList {
+  padding-left: 0px;
+  padding-top: 0px;
+}
+
+.flagsContainer {
+  height: 40vh;
+  overflow-y: auto;
+  margin-top: 0px;
+}
+
+.flagList {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.noVisitContainer {
+  display: flex;
+  height: 30vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.noVisit {
+  font-family: 'Roboto';
+  font-size: 26px;
+  color: #ffffff;
+}

@@ -1,0 +1,29 @@
+.flagImage {
+  width: 220px;
+  height: 100px;
+  margin-bottom: 0px;
+}
+
+.listItemContainer {
+  width: 220px;
+  background-color: #1f1f2f;
+  margin-right: 20px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.nameRemoveContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.removeButton {
+  border: 1px solid #cbd5e1;
+  color: #cbd5e1;
+  background-color: transparent;
+  padding: 4px 12px 4px 12px;
+  border-radius: 6px;
+}

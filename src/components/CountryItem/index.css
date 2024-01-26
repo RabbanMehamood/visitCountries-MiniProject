@@ -1,0 +1,38 @@
+.list-item {
+  list-style-type: none;
+  margin-top: 0px;
+}
+
+.nameVisitContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+  border-bottom: 1px solid #94a3b8;
+  background-color: #1f1f2f;
+}
+
+.countryName {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #ffffff;
+}
+
+.visitButtonStyles {
+  font-family: 'Roboto';
+  font-size: 14px;
+  background-color: #3b82f6;
+  padding: 6px 26px 6px 26px;
+  border: 0px;
+  color: #ffffff;
+  border-radius: 6px;
+}
+
+.visitButton {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #cbd5e1;
+  background-color: #1f1f2f;
+  padding: 6px 26px 6px 26px;
+  border: 0px;
+}
